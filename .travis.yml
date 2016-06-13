@@ -2,4 +2,4 @@ language: node_js
 node_js:
  - "node"
 before_script:
- - "node src/backend/index.js"
+ - "node src/backend/index.js &"
