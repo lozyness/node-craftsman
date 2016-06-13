@@ -1,0 +1,11 @@
+{
+  "name": "node-craftsman",
+  "version": "1.0.0",
+  "description": "Tutorial Accompanying Node Craftsman Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
